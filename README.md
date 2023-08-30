@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Bader mohammad Alyami</h1>
+<h1 align="center"> I'm Bader Mohammad Alyami</h1>
 <h3 align="center">Full Satck Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bader975&label=Profile%20views&color=0e75b6&style=flat" alt="bader975" /> </p>
