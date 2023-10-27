@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/webcodejr" target="blank"><img src="https://img.shields.io/twitter/follow/webcodejr?logo=twitter&style=for-the-badge" alt="webcodejr" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+<!-- - 🌱 I’m currently learning **React Native** -->
 
 - 👨‍💻 All of my projects are available at [https://www.portfolio-bader.online/](https://www.portfolio-bader.online/)
 
