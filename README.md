@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.portfolio-bader.online/](https://www.portfolio-bader.online/)
 
-- 💬 Ask me about **TypeScript,JavaScript,React.js ,Next.js,node.js,Express.js**
+- 💬 Ask me about ** TypeScript, JavaScript, React.js , Next.js, node.js, Express.js**
 
 - 📫 How to reach me **bader97alyami@hotmail.com**
 
