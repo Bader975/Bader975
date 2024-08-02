@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bader97alyami@hotmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/2uMXWn](https://pdf.ac/2uMXWn)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
