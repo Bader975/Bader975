@@ -10,7 +10,8 @@
 
 <!-- - 🌱 I’m currently learning **React Native** -->
 
-- 👨‍💻 All of my projects are available at [https://www.portfolio-bader.online/](https://www.portfolio-bader.online/)
+- 👨‍💻 All of my projects are available at [https://www.bader-alyami.com](https://www.bader-alyami.com/)
+
 
 - 💬 Ask me about **TypeScript**, **JavaScript**, **React.js**, **Next.js**, **node.js**, **Express.js**
 
