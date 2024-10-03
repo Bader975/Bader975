@@ -46,7 +46,7 @@
   <img width="12" />
 <img src="https://static-00.iconduck.com/assets.00/angular-icon-2048x2048-24b236vf.png" height="40" alt="angular logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
+  <img src="https://www.okoone.com/wp-content/uploads/2024/06/next-js-logo.png" height="50" alt="nextjs logo"  />
   <img width="12" />
 <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" height="40" alt="tailwind css logo"  />
   <img width="12" />
