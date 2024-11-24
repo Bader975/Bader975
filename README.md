@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-<img src="https://static-00.iconduck.com/assets.00/angular-icon-2048x2048-24b236vf.png" height="40" alt="angular logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://www.okoone.com/wp-content/uploads/2024/06/next-js-logo.png" height="50" alt="nextjs logo"  />
   <img width="12" />
